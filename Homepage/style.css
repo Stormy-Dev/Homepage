@@ -36,6 +36,11 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
+canvas{
+  position: fixed;
+  top: 0;
+  left: 0;
+}
 
 #app {
   max-width: 1280px;
